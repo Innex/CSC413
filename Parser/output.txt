@@ -1,0 +1,1031 @@
+1. program { float i
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program {
+2. 
+3. float f
+4. 
+5. float quotient ( float numerator, float denominator) {
+6. 
+7. boolean condition
+8. 
+9. condition = !!denominator == 0
+10. 
+11. if (condition) then { return 1.2e3}
+12. 
+13. else {return numerator / denominator}
+14. 
+15. }
+16. 
+17. do { do { f = quotient( 2.0, 1.01) } while !q } while 1.2
+18. 
+19. }
+1. program { int i int j
+2.    i = i + j + 7
+3.    j = write(i)
+4. }
+1. program { int i int j
+2.    i = i + j + 7
+3.    j = write(i)
+4. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
+1. program { float i
+2. do {
+3. float factorial(int n) { return 1.0 }
+4. do { do { } while 7.5} while 5.34E-3 <= 1 
+5.  i = i + 1
+6. } while true
+7. 
+8. }
